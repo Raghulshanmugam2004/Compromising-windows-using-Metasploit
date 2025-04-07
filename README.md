@@ -77,6 +77,7 @@ The file "fun.exe" downloads.
 Bypass any warning boxes, double-click the file, and allow it to run.
 
 On kali give the command exploit
+
 ![image](https://github.com/user-attachments/assets/049996e8-1ca7-41cb-a270-e2df3b357376)
 
 
