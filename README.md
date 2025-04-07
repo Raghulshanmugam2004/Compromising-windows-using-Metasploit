@@ -100,20 +100,19 @@ netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
 
-![migrate-Nexplorer](https://github.com/Manoj162004/Compromising-windows-using-Metasploit/assets/120365042/836e6efa-423f-4553-ad2f-19170b010892)
 
 Post Exploitation
 The target is now owned. Following are meterpreter commands for key capturing in the target machine
 keyscan_start	Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
 ![image](https://github.com/user-attachments/assets/f5776fc3-80cb-4ae1-8ba0-f8bf1cd4771a)
+
 ![6 14](https://github.com/user-attachments/assets/781f8912-c6e5-4a38-9f49-da7c39338628)
 
 
 keyscan_dump	Shows the keystrokes captured so far
+
+
 ![image](https://github.com/user-attachments/assets/1ca75d17-301e-4c88-9082-6bfcfab05318)
-
-
-
 
 
 
